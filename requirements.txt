@@ -3,4 +3,4 @@ fastai
 ipywidgets
 voila
 tornado>=6.1.0
-
+pathlib
